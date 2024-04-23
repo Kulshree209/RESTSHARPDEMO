@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "t6CaKMGLX79Xro4sLSfpfLDzTF5CEWW9VoLW5mQ9ncg2+tU0djeUrG+xvv5lmvTVkWGTqW38s6rMWR1uNA8HyA==",
+  "success": true,
+  "projectFilePath": "/Users/kulshreepatil/RestSharpDemo_API/RestSharpDemo_API/RestSharpDemo_API.csproj",
+  "expectedPackageFiles": [
+    "/Users/kulshreepatil/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/kulshreepatil/.nuget/packages/restsharp/106.12.0/restsharp.106.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
